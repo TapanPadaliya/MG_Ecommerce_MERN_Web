@@ -12,6 +12,11 @@ For Frontend :
 >frontend> npm start
 ```
 
+For Environment Setup :
+```bash
+Create new .env file in Backend directory and setup Codes for Private Fields & it's Values.
+```
+
 For Backend :
 ```bash
 >cd backend
